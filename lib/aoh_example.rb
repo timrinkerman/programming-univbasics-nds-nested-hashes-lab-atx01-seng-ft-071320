@@ -14,7 +14,7 @@ def assembled_aoh
     :favorite_movie=>"Citizen Kane"},
     {:name=>"Andrej Tarkovsky", 
     :favorite_movie=>"Solaris"}
-]
+    ]
     
     
     ]
