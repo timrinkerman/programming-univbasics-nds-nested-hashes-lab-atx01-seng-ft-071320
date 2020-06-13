@@ -10,7 +10,11 @@ def assembled_aoh
   film_fest = [
     {:name => "Ida Lupino",
     :favorite_movie => "The Hitch-Hiker"},
-    
+    {:name=>"Orson Welles", 
+    :favorite_movie=>"Citizen Kane"},
+    {:name=>"Andrej Tarkovsky", 
+    :favorite_movie=>"Solaris"}
+]
     
     
     ]
