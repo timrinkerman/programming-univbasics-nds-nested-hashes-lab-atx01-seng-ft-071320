@@ -22,7 +22,9 @@ end
 
 def literal_aoh
  film_fest = [
-   
+   { :name => "Don Gately", 
+   :occupation => "Live-in Staff" },
+   { :name => "Joelle van Dyne", :occupation => "Radio Personality" }
    
    
    ]
