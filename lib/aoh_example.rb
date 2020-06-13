@@ -7,16 +7,12 @@ KATE_G = { name:  "Kate Gompert", occupation: "None" }
 BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 
 def assembled_aoh
-  film_fest = [
-    {:name => "Ida Lupino",
-    :favorite_movie => "The Hitch-Hiker"},
-    {:name=>"Orson Welles", 
-    :favorite_movie=>"Citizen Kane"},
-    {:name=>"Andrej Tarkovsky", 
-    :favorite_movie=>"Solaris"}
-    ]
-    
-    
+ film_fest = [
+  {:name=>"Ida Lupino", :favorite_movie=>"The Hitch-Hiker"},
+  {:name=>"Orson Welles", :favorite_movie=>"Citizen Kane"},
+  {:name=>"Andrej Tarkovsky", :favorite_movie=>"Solaris"}
+]
+ 
   
   # Build an array that contains (or, "nests") the constants into a single
   # Array. Ruby constants are denoted by ALL_CAPS
